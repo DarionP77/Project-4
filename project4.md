@@ -29,7 +29,7 @@ By the way, the artworks shown in the video are all mad by your truly. Enjoy the
 
 ### In this project, I will showcase my ability to use Twine. This game is quite long, with 3 diffrent endings to it, and many of choices to choose from. Will you figure out what's going on in the creepy Tavern? 
 
-<a href= [https://github.com/DarionP77/Project-4/assets/143098261/6aed3f9e-f245-47dd-b9dc-14f20f34ffab](https://darionp77.github.io/Project-3/)>
+<a href= https://darionp77.github.io/Project-3/>
 
 
 
