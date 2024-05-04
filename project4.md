@@ -13,7 +13,7 @@
 
 ####  https://github.com/DarionP77/-DarionPrinceProject-1-.github.io.git
 
-# Project-2
+<h1>Project-2</h1 
 
 I made my project a little skit of a zoom live stremaer doing a livestream for a visa gift card. 
 
@@ -23,7 +23,7 @@ By the way, the artworks shown in the video are all mad by your truly. Enjoy the
 
 ![Project 2 Video](https://github.com/DarionP77/Project-2/blob/main/video1953238842_(copy)%20(540p).mp4)
 
-# Project 3
+<h1>Project 3</h1>
 
 ## # DarionPrince_Project3.github.io
 
