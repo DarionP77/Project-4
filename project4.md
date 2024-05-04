@@ -8,7 +8,7 @@
 
 <h1>PROJECT 1: Github Poetry Website</h1>
 
-!![image](https://github.com/DarionP77/Project-4/assets/143098261/6aed3f9e-f245-47dd-b9dc-14f20f34ffab)
+<a href="https://github.com/DarionP77/Project-4/assets/143098261/6aed3f9e-f245-47dd-b9dc-14f20f34ffab">
 
 
 ####  https://github.com/DarionP77/-DarionPrinceProject-1-.github.io.git
@@ -21,10 +21,10 @@ Their will be 3 artworks shown using the green screen and will be a lot of funny
 
 By the way, the artworks shown in the video are all mad by your truly. Enjoy the video!
 
-!![Project 2 Video](https://github.com/DarionP77/Project-2/blob/main/video1953238842_(copy)%20(540p).mp4)
+<a href="https://github.com/DarionP77/Project-2/blob/main/video1953238842_(copy)%20(540p).mp4">
 <!DOCTYPE html>
 <html>
-<body>
+<body>red
 
 
 
