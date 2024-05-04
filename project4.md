@@ -17,5 +17,7 @@ Their will be 3 artworks shown using the green screen and will be a lot of funny
 
 By the way, the artworks shown in the video are all mad by your truly. Enjoy the video!
 
+!![Project 2 Video](https://github.com/DarionP77/Project-2/blob/main/video1953238842_(copy)%20(540p).mp4)
+
 
 
